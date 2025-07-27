@@ -1,0 +1,11 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  border: 1px solid black;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

@@ -1,0 +1,16 @@
+.mydiv {
+  text-align: center;
+  color: green;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 300px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid gray;
+}
